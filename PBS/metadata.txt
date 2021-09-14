@@ -1,0 +1,1061 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=33,10,7,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Intro
+[002]
+# Lappet Town
+MapPosition=0,13,12
+Outdoor=true
+ShowArea=true
+[003]
+# MAP003
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+[004]
+# Pokémon Lab
+MapPosition=0,13,12
+ShowArea=false
+[005]
+# Route House
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+[006]
+# Kurt's house
+MapPosition=0,13,11
+[007]
+# Cedolan City
+MapSize=2,11
+MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
+[008]
+# Daisy's house
+MapPosition=0,13,12
+[009]
+# Golden City Poké Center
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Cedolan Gym
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# Pokémon Institute
+MapPosition=0,14,10
+[012]
+# Cedolan City Condo
+MapPosition=0,14,10
+[013]
+# Game Corner
+MapPosition=0,14,10
+[014]
+# Golden Dept. 1F
+MapPosition=0,13,10
+[015]
+# Golden Dept. 2F
+MapPosition=0,13,10
+[016]
+# Golden Dept. 3F
+MapPosition=0,13,10
+[017]
+# Golden Dept. 4F
+MapPosition=0,13,10
+[018]
+# Golden Dept. 5F
+MapPosition=0,13,10
+[019]
+# Golden Dept. Rooftop
+MapPosition=0,13,10
+[020]
+# Golden Dept. Elevator
+MapPosition=0,13,10
+[021]
+# Route Bridges
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+[022]
+# New Oak Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[023]
+# Lerucean Town
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[024]
+# Lerucean Town Poké Center
+MapPosition=0,15,8
+HealingSpot=23,11,15
+[025]
+# Lerucean Town Mart
+MapPosition=0,15,8
+[026]
+# Pokémon Fan Club
+MapPosition=0,15,8
+[027]
+# Pokémon Day Care
+MapPosition=0,15,8
+[028]
+# Natural Park
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[029]
+# Natural Park Entrance
+Bicycle=true
+MapPosition=0,16,8
+[030]
+# Natural Park Pavillion
+MapPosition=0,16,8
+[031]
+# Route Trainers
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[032]
+# Route 1
+Bicycle=true
+TrainerVictoryME=Victory - Trainer.mid
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=fireleafbattle.mid
+Outdoor=true
+WildBattleBGM=GSC Battle.mid
+ShowArea=true
+[033]
+# Your House
+[034]
+# Ice Cave
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
+[035]
+# Ingido Plateau
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
+[036]
+# Pokémon League
+MapPosition=0,13,6
+HealingSpot=35,17,7
+[037]
+# Pokémon League
+BattleBack=EliteA
+TrainerVictoryME=SlotsBigWin.mp3
+TrainerBattleBGM=4-84 Final Battle! (Rival) [Pokemon Origins Version].mp3
+MapPosition=0,13,6
+ShowArea=true
+[038]
+# Hall of Fame
+MapPosition=0,13,6
+[039]
+# Route Transition
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+[040]
+# Route 4
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[041]
+# Route Bike
+MapSize=1,111
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[042]
+# Professor's Lab
+[044]
+# Route Swim
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
+[045]
+# Route 6
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[046]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,6
+[047]
+# Route Cave
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+[049]
+# Rock Cave
+Bicycle=true
+MapPosition=0,16,10
+[050]
+# Rock Cave
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,16,10
+DarkMap=true
+[051]
+# Dungeon
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
+[052]
+# Battle Frontier
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
+[053]
+# Battle Frontier Poké Center
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Battle Frontier Mart
+MapPosition=0,17,10
+[055]
+# Battle Tower
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Battle Tower arena
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Stadium Cup lobby
+MapPosition=0,17,10
+[058]
+# Battle Palace
+MapPosition=0,17,10
+[059]
+# Battle Palace arena
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+# Battle Arena
+MapPosition=0,17,10
+[061]
+# Battle Arena arena
+BattleBack=EliteB
+MapPosition=0,17,10
+[062]
+# Battle Factory
+MapPosition=0,17,10
+[063]
+# Battle Factory intro corridor
+MapPosition=0,17,10
+[064]
+# Battle Factory arena
+BattleBack=EliteC
+MapPosition=0,17,10
+[065]
+# Battle Factory corridor
+MapPosition=0,17,10
+[066]
+# Safari Zone
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+[067]
+# Safari Zone gate
+MapPosition=0,12,12
+[068]
+# Safari Zone
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[069]
+# Route Waterfall
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+[070]
+# Underwater
+MapPosition=0,13,13
+[071]
+# Harbour
+MapPosition=0,13,13
+[072]
+# Berth Island
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+[073]
+# Faraday Island
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+[074]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,10
+[075]
+# Tiall Region
+MapPosition=1,13,16
+Outdoor=true
+[077]
+# Training Grounds
+Weather=Rain,80
+Bicycle=true
+TrainerVictoryME=Victory - Trainer.mid
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=fireleafbattle.mid
+Outdoor=true
+WildBattleBGM=GSC Battle.mid
+ShowArea=true
+[078]
+# Route 2
+Weather=Rain,10
+Bicycle=true
+TrainerVictoryME=Victory - Trainer.mid
+TrainerBattleBGM=fireleafbattle.mid
+Outdoor=true
+WildBattleBGM=GSC Battle.mid
+ShowArea=true
+[079]
+# Crossroads
+Weather=Rain,5
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[080]
+# MSJ
+Weather=Snow,1
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-21 Battle! (Trainer Battle XY).mp3
+Outdoor=true
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[081]
+# Cafeteria
+HealingSpot=80,48,68
+[091]
+# Room 1
+ShowArea=true
+[093]
+# Room 2
+ShowArea=true
+[098]
+# I.T.
+ShowArea=true
+[103]
+# FatherMike'sRoom
+ShowArea=true
+[104]
+# CampusMinistry
+ShowArea=true
+[105]
+# Chapel
+ShowArea=true
+[112]
+# MathOffice1
+ShowArea=true
+[113]
+# MathOffice2
+ShowArea=true
+[115]
+# St. Joseph's Hall 2F
+ShowArea=true
+[116]
+# Founder's Hall
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+ShowArea=true
+[117]
+# Room 411
+ShowArea=true
+[118]
+# Room 412
+ShowArea=true
+[119]
+# ComputerWorkroom
+ShowArea=true
+[120]
+# VideoOffice
+ShowArea=true
+[121]
+# Room 415
+ShowArea=true
+[122]
+# Room 416
+ShowArea=true
+[124]
+# Room 421 GPR
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+ShowArea=true
+[125]
+# Attendance Office
+ShowArea=true
+[126]
+# Administration Offices
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=095 Palkia's Onslaught!.mp3
+ShowArea=true
+[129]
+# Room 205
+ShowArea=true
+[131]
+# St. Joseph's Hall 3F
+ShowArea=true
+[133]
+# Room 306
+ShowArea=true
+[134]
+# Counseling Office
+ShowArea=true
+[135]
+# Counselor's Office
+[136]
+# Room 315
+ShowArea=true
+[137]
+# Library
+ShowArea=true
+[138]
+# St. Joseph's Hall 1F
+ShowArea=true
+[139]
+# Depaul
+BattleBack=
+TrainerVictoryME=116 - victory (vs trainer)RB.mp3
+TrainerBattleBGM=115 - battle (vs trainer)RB.mp3
+ShowArea=true
+[140]
+# Depaul Lounge Up
+ShowArea=true
+[142]
+# Room 117
+[145]
+# Smith Center
+ShowArea=true
+[147]
+# Room 209
+[148]
+# 212 Battle Office 1 (F)
+TrainerBattleBGM=16 Battle! Normal-type Pokemon.mp3
+[149]
+# Battle Office 2 (F)
+TrainerVictoryME=Victory - Trainer.mid
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+[151]
+# Battle Office 4 (F)
+TrainerBattleBGM=011 Battle! (Rival)BW2.mp3
+[152]
+# Battle Office 2.1 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+[153]
+# Battle Office 7 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+[154]
+# Battle Office 8
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-17 Battle! TrainerRS.mp3
+[155]
+# 212 Battle Office 1.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=16 Battle! Normal-type Pokemon.mp3
+[156]
+# Battle Office 8
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+[157]
+# Battle Office 8.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+[158]
+# Room 400
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+ShowArea=true
+[159]
+# VGC Small Hideout
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+[160]
+# VGC Smaller Hideout
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=308. Battle! (Team Aqua - Team Magma Leader)ORAS.mp3
+[161]
+# 212 Battle Office 1.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=34 Battle! Boss CONQUEST.mp3
+[162]
+# Battle Office 4.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=043 Battle! Gym Leader (Johto)HGSS.mp3
+[163]
+# Battle Office 2.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=40 Boss Battle!PRB.mp3
+[164]
+# Battle Office 8.2
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=057 Legendary Boss Battle Rock VersionPSMD.mp3
+[165]
+# Battle Office 7.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=043 Battle! Gym Leader (Johto)HGSS.mp3
+[166]
+# Battle Office 8.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=057 Legendary Boss Battle Rock VersionPSMD.mp3
+[167]
+# Battle Office 3.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=40 Boss Battle!PRB.mp3
+[168]
+# Battle Office 4.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+[169]
+# Battle Office 7.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-21 Battle! (Trainer Battle XY).mp3
+[170]
+# Battle Office 3.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+[171]
+# 212 Battle Office 1.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=16 Battle! Normal-type Pokemon.mp3
+[172]
+# Battle Office 2.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=115 - battle (vs trainer)RB.mp3
+[173]
+# Battle Office 1 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+[174]
+# Battle Office 7.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=115 - battle (vs trainer)RB.mp3
+[175]
+# Battle Office 3.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=115 - battle (vs trainer)RB.mp3
+[176]
+# Battle Office 4.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+[177]
+# Battle Office 1.2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+[178]
+# Battle Office 8.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+[179]
+# 212 Battle Office 1.5 (F)
+TrainerVictoryME=37_Battle Win.mp3
+TrainerBattleBGM=34_Legendary Spanish Battle!.mp3
+[180]
+# Battle Office 4.5 (F)
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=127 Battle! Suicune.mp3
+[181]
+# Battle Office 2.4 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=Defy The Legends.mp3
+[182]
+# Battle Office 1.3 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=056 Battle! (Gym Leader-Hoenn Version.mp3
+[183]
+# Battle Office 7.5 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=Defy The Legends.mp3
+[184]
+# Battle Office 8.5 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=057 Legendary Boss Battle Rock VersionPSMD.mp3
+[185]
+# Battle Office 3.5 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=Boss04.mid
+[186]
+# Route 3
+Weather=Rain,50
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=120. Battle! (Trainer)OMAS.mp3
+ShowArea=true
+[187]
+# Temporal Gardens
+Weather=Storm,20
+WildVictoryME=SlotsBigWin.mp3
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[188]
+# Route 4
+BattleBack=
+Weather=Rain,30
+Bicycle=true
+TrainerVictoryME=116 - victory (vs trainer)RB.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+Outdoor=true
+WildBattleBGM=fireleafbattle.mid
+ShowArea=true
+[189]
+# Summer Campout (F)
+Weather=Storm,50
+Outdoor=true
+HealingSpot=189,10,21
+ShowArea=true
+[191]
+# Summer Geometry Battle Office 1 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+[193]
+# Math Dimension (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=Cold - existence.mp3
+Outdoor=true
+WildBattleBGM=Cold - existence.mp3
+ShowArea=true
+[194]
+# Route 5
+Weather=Rain,30
+Bicycle=true
+TrainerVictoryME=1-47 Victory Against Galaxy Gang!.mp3
+TrainerBattleBGM=1-41 Battle! Galaxy Gang.mp3
+Outdoor=true
+ShowArea=true
+[195]
+# Dahlia Town
+Outdoor=true
+HealingSpot=195,9,19
+ShowArea=true
+[198]
+# Route 6
+Weather=HeavyRain,30
+Bicycle=true
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[202]
+# Sophomore Crossroads
+Weather=Rain,10
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[203]
+# Soccer Field (Soph)
+Bicycle=true
+WildVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[204]
+# Baseball Field (Soph)
+Bicycle=true
+WildVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[205]
+# Battle Office 3.51 (F)
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=2-04 Battle! Gym Leader (Kanto).mp3
+[206]
+# 4 Battle Office 9000 (F)
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=52 Battle! (Gym Leader—Kanto VersionBW.mp3
+[209]
+# Battle Office 43 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=02. Battle! (Trainer)SUN AND MOON.mp3
+[210]
+# 116 Battle Office 1 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=168 Battle! Frontier Brain.mp3
+[211]
+# 205 Battle Office 1 (F)
+TrainerVictoryME=1-47 Victory Against Galaxy Gang!.mp3
+TrainerBattleBGM=DESCENT.MID
+[212]
+# 4 Battle Office 9001 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=1-17 Battle! TrainerRS.mp3
+[213]
+# 211 Battle Office 1 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=gymleader.mid
+[214]
+# 116 Battle Office 2 (F)
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=DESCENT.MID
+[215]
+# Battle Office Art
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+[216]
+# Battle Office 21.1
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=168 Battle! Frontier Brain.mp3
+[217]
+# Battle Office 21.2
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=127 Battle! Suicune.mp3
+[218]
+# 4 Battle Office 9002 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=143 Battle! Trainer (Kanto)HGSS.mp3
+[219]
+# 116 Battle Office 3 (F)
+TrainerVictoryME=1-47 Victory Against Galaxy Gang!.mp3
+TrainerBattleBGM=GLADION.mp3
+[220]
+# Battle Office Art 2
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+[223]
+# VGC 2 Hideout
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+WildBattleBGM=fireleafbattle.mid
+[224]
+# VGC 2 Hideout 2
+TrainerVictoryME=130. Victory! (Team Aqua - Team Magma).mp3
+TrainerBattleBGM=129. Battle! (Team Aqua - Team Magma).mp3
+WildBattleBGM=52 Battle! (Gym Leader—Kanto VersionBW.mp3
+[225]
+# Battle Office Art 3
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=Defy The Legends.mp3
+[226]
+# Battle Office 3.52 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=40 Boss Battle!PRB.mp3
+[227]
+# Battle Office 21.3
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+TrainerBattleBGM=127 Battle! Suicune.mp3
+[228]
+# 4 Battle Office 9003 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=58 Battle! (Gym Leader—Sinnoh VersionBW2.mp3
+[229]
+# 211 Battle Office 2 (F)
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=34_Legendary Spanish Battle!.mp3
+[230]
+# Battle Office 44 (F)
+TrainerVictoryME=116 - victory (vs trainer)RB.mp3
+TrainerBattleBGM=1-41 Battle! Galaxy Gang.mp3
+[231]
+# Junior Forest
+Weather=Storm,80
+Bicycle=true
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-20 Battle! TrainerDP.mp3
+Outdoor=true
+WildBattleBGM=Driftveil mewmore Style (Remix).mp3
+ShowArea=true
+[232]
+# Route 7
+Weather=Sun,30
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=143 Battle! Trainer (Kanto)HGSS.mp3
+ShowArea=true
+[233]
+# Rocky Cave
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=143 Battle! Trainer (Kanto)HGSS.mp3
+Outdoor=false
+WildBattleBGM=1-17 Battle! TrainerRS.mp3
+ShowArea=true
+[234]
+# 1F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-17 Battle! TrainerRS.mp3
+WildBattleBGM=143 Battle! Trainer (Kanto)HGSS.mp3
+[235]
+# 2F
+TrainerVictoryME=116 - victory (vs trainer)RB.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=BW039 Battle! (Trainer Battle).mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[236]
+# 3F
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=1-17 Battle! TrainerRS.mp3
+[237]
+# +1F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=02. Battle! (Trainer)SUN AND MOON.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[238]
+# 4F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=143 Battle! Trainer (Kanto)HGSS.mp3
+WildBattleBGM=GSC Battle.mid
+[239]
+# Golden City
+Weather=Blizzard,100
+Bicycle=true
+Outdoor=true
+HealingSpot=239,27,22
+ShowArea=true
+[242]
+# Route 8
+Weather=Snow,70
+Bicycle=true
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+Outdoor=true
+WildBattleBGM=BW039 Battle! (Trainer Battle).mp3
+ShowArea=true
+[243]
+# Summer Campout(S)
+Weather=Rain,20
+Bicycle=true
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=gymleader.mid
+Outdoor=true
+WildBattleBGM=battle1.mid
+HealingSpot=243,11,16
+ShowArea=true
+[244]
+# Summer Chemistry Room
+Outdoor=false
+ShowArea=true
+[245]
+# Summer Chemistry Battle Room
+TrainerVictoryME=1-47 Victory Against Galaxy Gang!.mp3
+TrainerBattleBGM=Defy The Legends.mp3
+[246]
+# Route 9
+Bicycle=true
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=GLADION.mp3
+Outdoor=true
+ShowArea=true
+[247]
+# Junior Crossroads
+Weather=Sandstorm,30
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[248]
+# Soccer Field (Junior)
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[249]
+# Baseball Field (Junior)
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[252]
+# 213 Battle Office 1 (F)
+TrainerVictoryME=1-21 Victory Against Trainer!DP.mp3
+TrainerBattleBGM=1-41 Battle! Galaxy Gang.mp3
+[253]
+# Fathers House
+ShowArea=true
+[254]
+# Mr. Bristol's Room
+ShowArea=true
+[255]
+# MSJ Tower
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+Dungeon=false
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[256]
+# 2F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[257]
+# 3F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[258]
+# 4F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[259]
+# 5F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[260]
+# 6F
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[261]
+# 7F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[262]
+# 8F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=120. Battle! (Trainer)OMAS.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[263]
+# 9F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[264]
+# 9 1/2F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[265]
+# 10F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[266]
+# 11F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[267]
+# 12F
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=Victory - Wild Pokemon.mid
+TrainerBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+[268]
+# 13F
+Weather=HeavyRain,100
+TrainerVictoryME=XY 1-22 Victory! (Trainer Battle).mp3
+WildVictoryME=SlotsBigWin.mp3
+TrainerBattleBGM=1-32 Battle! Gym LeaderDP.mp3
+Outdoor=true
+WildBattleBGM=Mt. ThunderGAEL.mp3
+ShowArea=true
+[269]
+# Route 10
+Weather=Snow,50
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=010 Battle! Wild Pokémon (Johto).mp3
+ShowArea=true
+[270]
+# Mysterious Path
+Weather=Storm,100
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=1-20 Battle! TrainerDP.mp3
+ShowArea=true
+[271]
+# Distortion World
+BattleBack=
+WildVictoryME=Victory - Wild Pokemon.mid
+DarkMap=true
+Outdoor=false
+WildBattleBGM=095 Palkia's Onslaught!.mp3
+ShowArea=true
+[272]
+# Route 11
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[273]
+# Administration Offices (PAST)
+TrainerVictoryME=Victory Against Trainer!BW.mp3
+TrainerBattleBGM=58 Battle! (Gym LeadeSinnoh VersionBW2.mp3
+[274]
+# Senior Crossroads
+Weather=Rain,20
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[275]
+# Soccer Field (Senior)
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=1-17 Battle! TrainerRS.mp3
+ShowArea=true
+[276]
+# Baseball Field (Senior)
+Weather=Snow,60
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=1-17 Battle! TrainerRS.mp3
+ShowArea=true
+[279]
+# Hyper Training Grounds
+Weather=Storm,50
+Bicycle=true
+WildVictoryME=Victory - Wild Pokemon.mid
+Outdoor=true
+WildBattleBGM=011 Battle! (Rival)BW2.mp3
+ShowArea=true

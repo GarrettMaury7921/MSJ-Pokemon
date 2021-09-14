@@ -1,0 +1,46 @@
+Freshman Year:
+A Period: Room 212
+B Period: Room 117
+C Period: Room 315
+Homeroom: Room 205
+D Period: Cafeteria
+E Period: Room 15/Smith Center - Mr. Holzers Room (Second half of year)
+F Period: Room 12
+G Period: Room 10
+H Period: Room 209
+
+Summer Geometry
+
+Sophomore Year:
+A Period: Art Room
+B Period: Room 209
+C Period: Room 21
+Homeroom: Room 205
+D Period: Cafeteria
+E Period: Room 4
+F Period: Room 211
+G Period: Room 309
+H Period: Room 116/Smith Center - St. Martin's room (Second half of year)
+
+Summer Chemistry
+
+A Period: Room 208
+B Period: Room 116
+C Period: Room 213
+Homeroom: Room 205
+D Period: Cafeteria
+E Period: Room 116
+F Period: Room 5
+G Period: Room 10
+H Period: Room 12
+
+
+A Period: Room 116
+B Period: Room 212
+C Period: Room 213
+Homeroom: Room 205
+D Period: Cafeteria
+E Period: Room 1
+F Period: Room 23
+G Period: Room 13
+H Period: Room 116
